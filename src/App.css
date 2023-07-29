@@ -55,25 +55,22 @@ a{
      justify-content:space-between;
      align-items:center;
 }
-.main-productDetails
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
 
+.main-productDetail{
+    text-align: center;
+}
 .main-productName{
     font-size: 40px;
     font-weight: bold;
-    position: absolute;
     padding-top: 120px;
+    margin-left: 30px;
     animation: App-detail-float 1 .6s ease-in-out;
 }
 .main-productInfo{
     font-size: 20px;
-    position: absolute;
-    padding-top: 170px;
+    padding-top: 20px;
     animation: App-detail-float 1 .6s ease-in-out;
+    margin-right: 20px;
 }
 
 @keyframes App-detail-float {

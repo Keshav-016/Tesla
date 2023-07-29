@@ -1,5 +1,5 @@
 import React from "react";
-import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 export default function Body(prop) {
 
 
@@ -38,21 +38,20 @@ export default function Body(prop) {
 
         <div style={{ backgroundImage: `url(${prop.url})` }} className="main-img">
             <div className="main-productDetails">
-                <Fade bottom>
-                    <p className="main-productName">{prop.name}</p>
+                <Fade delay={200} className="main-productName">
+                    <div >{prop.name}</div>
                 </Fade>
-                <Fade bottom>
-                    <p className="main-productInfo">{prop.detail}</p>
+                <Fade delay={400} className="main-productInfo">
+                    <div >{prop.detail}</div>
                 </Fade>
             </div>
             {val ? <div>
                 <div className="btn">
-                    <Fade bottom>
+                    <Fade direction="up">
                         <button type="submit" className="btn-black">{prop.button1}</button>
                         <button type="submit" className="btn-white">{prop.button2}</button>
                     </Fade>
                 </div>
-                <img src="https://drive.google.com/uc?export=view&id=1kEJXM1kILcMIQTruE9VCalaEYb6i4Ssk" alt="no img" className="main-arrow" />
             </div> : null}
             <button type="submit" className="btn-shopNow">Shop Now</button>
         </div>
