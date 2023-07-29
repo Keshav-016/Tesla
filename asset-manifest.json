@@ -1,13 +1,14 @@
 {
-  "main.css": "/Tesla/static/css/main.cc8e934c.chunk.css",
-  "main.js": "/Tesla/static/js/main.bc0b41b9.chunk.js",
-  "main.js.map": "/Tesla/static/js/main.bc0b41b9.chunk.js.map",
+  "main.css": "/Tesla/static/css/main.62d60261.chunk.css",
+  "main.js": "/Tesla/static/js/main.96c9315c.chunk.js",
+  "main.js.map": "/Tesla/static/js/main.96c9315c.chunk.js.map",
   "runtime~main.js": "/Tesla/static/js/runtime~main.ff53b222.js",
   "runtime~main.js.map": "/Tesla/static/js/runtime~main.ff53b222.js.map",
-  "static/js/2.ab6b7309.chunk.js": "/Tesla/static/js/2.ab6b7309.chunk.js",
-  "static/js/2.ab6b7309.chunk.js.map": "/Tesla/static/js/2.ab6b7309.chunk.js.map",
+  "static/js/2.78bc9a31.chunk.js": "/Tesla/static/js/2.78bc9a31.chunk.js",
+  "static/js/2.78bc9a31.chunk.js.map": "/Tesla/static/js/2.78bc9a31.chunk.js.map",
   "index.html": "/Tesla/index.html",
-  "precache-manifest.f8a4dfe30bc65474d87cbaacde84909e.js": "/Tesla/precache-manifest.f8a4dfe30bc65474d87cbaacde84909e.js",
+  "precache-manifest.9fb9842261793ca2a9d23ab2b91d8e98.js": "/Tesla/precache-manifest.9fb9842261793ca2a9d23ab2b91d8e98.js",
   "service-worker.js": "/Tesla/service-worker.js",
-  "static/css/main.cc8e934c.chunk.css.map": "/Tesla/static/css/main.cc8e934c.chunk.css.map"
+  "static/css/main.62d60261.chunk.css.map": "/Tesla/static/css/main.62d60261.chunk.css.map",
+  "static/media/tesla.png": "/Tesla/static/media/tesla.126acc11.png"
 }
